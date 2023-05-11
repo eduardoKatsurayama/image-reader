@@ -1,3 +1,4 @@
+# External dependencies
 linux:
 ```bash
 sudo apt install tesseract-ocr
